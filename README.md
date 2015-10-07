@@ -1,4 +1,4 @@
-# awesome-android
+# get-your-stuff-in-droid
 
 ## Introduction
 android libs from github
