@@ -103,9 +103,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
 1. **xUtils****    android orm, bitmap, http, view inject...     
 [https://github.com/wyouflf/xUtils](https://github.com/wyouflf/xUtils)
-1. **ThinkAndroid** ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发    
+1. **ThinkAndroid** ThinkAndroid
 [https://github.com/white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
-1. **KJFrameForAndroid** KJFrameForAndroid 又叫KJLibrary，是一个android的orm 和 ioc 框架。        
+1. **KJFrameForAndroid** KJFrameForAndroid   
 [https://github.com/kymjs/KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
 1. **droidparts**    DI, ORM, JSON, ...  
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
@@ -113,13 +113,13 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
 1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.     
 [https://github.com/path/android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)
-1. **SAF**   SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。    
+1. **SAF**   SAF(Simple Android Framework)。    
 [https://github.com/fengzhizi715/SAF](https://github.com/fengzhizi715/SAF)
 1. **AndroidBinding**  MVVM for Android     
 [https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
 1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.     
 [https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
-1. **androidkit** android开发框架，可以帮助你大量提高android应用开发效率。    
+1. **androidkit**
 [https://github.com/msdx/androidkit](https://github.com/msdx/androidkit)
 1. **transfuse** Transfuse - A Dependency Injection and Integration framework for Google Android      
 [https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
@@ -129,11 +129,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/mmin18/AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
 1. **apf**  Android Plugin Framework      
 [https://github.com/umeng/apf](https://github.com/umeng/apf)
-1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。     
+1. **LoonAndroid**      
 [https://github.com/gdpancheng/LoonAndroid](https://github.com/gdpancheng/LoonAndroid)
 1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way     
 [https://github.com/cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
-1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具      
+1. **BeeFramework_Android**       
 [https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
 1. **RoboMVVM**   MVVM framework for Android          
 [https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
@@ -141,9 +141,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
 1. **SwissKnife** A multi-purpose library containing view injection and threading for Android using annotations        
 [https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
-1. **QuickAndroid** 一个快速、完善的Android开发框架整合实践             
+1. **QuickAndroid** 一            
 [https://github.com/alafighting/QuickAndroid](https://github.com/alafighting/QuickAndroid)
-1. **CJFrameForAndroid**  CJFrameForAndroid 是一个实现android插件化开发的框架。使用CJFrameForAndroid，apk动态加载不再是难题，更重要的是可以轻松实现插件与APP项目之间的解耦。           
+1. **CJFrameForAndroid**  CJFrameForAndroid            
 [https://github.com/kymjs/CJFrameForAndroid](https://github.com/kymjs/CJFrameForAndroid)
 1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.      
 [https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
@@ -153,9 +153,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/fenli/elf](https://github.com/fenli/elf)
 1. **nucleus**  Nucleus is an Android library which helps to use the MVP (Model-View-Presenter) pattern
 [https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
-1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.            
+1. **MultipleTheme**  This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.            
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
-1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。              
+1. **DroidPlugin**   DroidPlugin            
 [https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
 1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki        
 [https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
@@ -513,7 +513,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ArabAgile/android-typeahead](https://github.com/ArabAgile/android-typeahead)
 1. **CircleTimerView**  Circle timer on Android platform.                     
 [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView) 
-1. **AlignTextView**  字体对齐的textview           
+1. **AlignTextView** textview           
 [https://github.com/androiddevelop/AlignTextView](https://github.com/androiddevelop/AlignTextView)
 1. **advanced-textview**  Advanced Android TextView          
 [https://github.com/chiuki/advanced-textview](https://github.com/chiuki/advanced-textview)
@@ -662,7 +662,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
 1. **WaveView**  A wave view of android,can be used as progress bar.     
 [https://github.com/john990/WaveView](https://github.com/john990/WaveView)
-1. **water-wave-progress**  水波按进度上升，带环形进度条     
+1. **water-wave-progress**      
 [https://github.com/Modificator/water-wave-progress](https://github.com/Modificator/water-wave-progress)
 1. **InfiniteIndicator**  This lib can be used for viewpager infinite loop with indicator easily.         
 [https://github.com/lightSky/InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator)
@@ -739,7 +739,7 @@ And this project is not using the image file!
 [https://github.com/Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)
 1. **Side-Menu.Android**  Side-Menu.Android     
 [https://github.com/Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)
-1. **Android-CircleMenu**   自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速旋转。    图标请勿商用。
+1. **Android-CircleMenu**   
 [https://github.com/hongyangAndroid/Android-CircleMenu](https://github.com/hongyangAndroid/Android-CircleMenu)
 1. **AndroidPullMenu**  An Android Library that allows users to pull down a menu and select different actions. It can be implemented inside ScrollView, GridView, ListView.            
 [https://github.com/ShkurtiA/AndroidPullMenu](https://github.com/ShkurtiA/AndroidPullMenu)
@@ -753,7 +753,7 @@ And this project is not using the image file!
 [https://github.com/JayFang1993/DropDownMenu](https://github.com/JayFang1993/DropDownMenu)
 1. **Folder-ResideMenu**  An extension of ResideMenu            
 [https://github.com/dkmeteor/Folder-ResideMenu](https://github.com/dkmeteor/Folder-ResideMenu)
-1. **SlideBottomPanel**   底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView              
+1. **SlideBottomPanel**                 
 [https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)
 1. **CustomMenu**    CustomMenu quickly realize about the menu                 
 [https://github.com/flyfei/CustomMenu](https://github.com/flyfei/CustomMenu)
@@ -776,7 +776,7 @@ And this project is not using the image file!
 [https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
 1. **PostOffice**    This is a library for easily constructing Holo and Material Design Dialogs.     
 [https://github.com/r0adkll/PostOffice](https://github.com/r0adkll/PostOffice)
-1. **sweet-alert-dialog**  Android版的SweetAlert，清新文艺，快意灵动的甜心弹框     
+1. **sweet-alert-dialog**  Android版的SweetAlert     
 [https://github.com/pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 1. **BlurDialogFragment** Library project to display DialogFragment with a blur effect.              
 [https://github.com/tvbarthel/BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)
@@ -827,7 +827,7 @@ And this project is not using the image file!
 [https://github.com/felipecsl/QuickReturn](https://github.com/felipecsl/QuickReturn)
 1. **Android-HorizontalListView**  HorizontalListView is an Android ListView widget which scrolls in a horizontal manner       
 [https://github.com/MeetMe/Android-HorizontalListView](https://github.com/MeetMe/Android-HorizontalListView)
-1. **ZrcListView**  一个顺滑又漂亮的Android下拉刷新与加载更多列表组件。    
+1. **ZrcListView**  一个Android下。    
 [https://github.com/zarics/ZrcListView](https://github.com/zarics/ZrcListView)
 1. **android-swipelistview**   An Android List View implementation with support for drawable cells and many other swipe related features        
 [https://github.com/47deg/android-swipelistview](https://github.com/47deg/android-swipelistview)  
@@ -839,7 +839,7 @@ And this project is not using the image file!
 [https://github.com/thest1/LazyList](https://github.com/thest1/LazyList)   
 1. **FloatingGroupExpandableListView** An open source Android library that provides a floating group view at the top of the ExpandableListView       
 [https://github.com/diegocarloslima/FloatingGroupExpandableListView](https://github.com/diegocarloslima/FloatingGroupExpandableListView)
-1. **PullSeparateListView** 到顶部或底部时拉动，item分离效果    
+1. **PullSeparateListView**    
 [https://github.com/chiemy/PullSeparateListView](https://github.com/chiemy/PullSeparateListView)
 1. **Android-SlideExpandableListView**    A better ExpandableListView, with animated expandable views for each list item          
 [https://github.com/tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
@@ -849,7 +849,7 @@ And this project is not using the image file!
 [https://github.com/jpardogo/ListBuddies](https://github.com/jpardogo/ListBuddies)
 1. **Android-Tiling-ScrollView** A tiling scrollview to display large picture (similar to iOS "CATiledLayer")       
 [https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
-1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
+1. **PullScrollView**     
 [https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
 1. **StickyScrollViewItems** A small android library for tagging views inside a ScrollView as "sticky" making them stick to the top of the scroll container until a new sticky view comes and takes it's place         
 [https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
@@ -894,7 +894,7 @@ And this project is not using the image file!
 [https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
 1. **android-GridViewWithHeaderAndFooter**  GridView with Header and Footer    
 [https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
-1. **DragExpandGrid**   可展开，可拖动，可排序，可删除，固定更多的GridView     
+1. **DragExpandGrid**  GridView     
 [https://github.com/wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid)
 
 
@@ -1134,7 +1134,7 @@ And this project is not using the image file!
 [https://github.com/noties/Scrollable](https://github.com/noties/Scrollable)
 1. **RearrangeableLayout** An android layout to re-arrange child views via dragging             
 [https://github.com/rajasharan/RearrangeableLayout](https://github.com/rajasharan/RearrangeableLayout)
-1. **BGAFlowLayout** Android流式布局，可配置是否将每一行的空白区域平均分配给子控件。            
+1. **BGAFlowLayout** Android            
 [https://github.com/bingoogolapple/BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android)
 1. **JellyRefreshLayout** A pull-down-to-refresh layout inspired by Lollipop overscrolled effects                   
 [https://github.com/allan1st/JellyRefreshLayout](https://github.com/allan1st/JellyRefreshLayout)
@@ -1340,7 +1340,7 @@ And this project is not using the image file!
 [https://github.com/fredericojssilva/ShowTipsView](https://github.com/fredericojssilva/ShowTipsView)
 1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.            
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
-1. **WheelView**  Android滚动选择控件        
+1. **WheelView**  Android
 [https://github.com/wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView)
 1. **CurtainView**  An android view,which can layer on any gravity for swiping.  
 [https://github.com/aicaprio/CurtainView](https://github.com/aicaprio/CurtainView)
@@ -1356,7 +1356,7 @@ And this project is not using the image file!
 [https://github.com/PhilJay/ValueBar](https://github.com/PhilJay/ValueBar)
 1. **CircleDisplay** Android View for displaying and selecting values in a circle-shaped View, with animations and touch gestures.                    
 [https://github.com/PhilJay/CircleDisplay](https://github.com/PhilJay/CircleDisplay)
-1. **android-shapeLoadingView**  高仿新版58 加载动画                    
+1. **android-shapeLoadingView**                 
 [https://github.com/zzz40500/android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)
 1. **Decor** Android layout decorators : Injecting custom attributes in layout files, Using decorators to get rid of  class explosion with multiple custom views.              
 [https://github.com/chemouna/decor](https://github.com/chemouna/decor)
@@ -1409,7 +1409,7 @@ And this project is not using the image file!
 [https://github.com/DavidPizarro/PinView](https://github.com/DavidPizarro/PinView)
 1. **CamView**  Android component to display live preview from the device camera and provide preview data for any external decoding processes       
 [https://github.com/LivotovLabs/CamView](https://github.com/LivotovLabs/CamView)
-1. **AndroidSweetSheet**  一个富有动感的Sheet(选择器)                     
+1. **AndroidSweetSheet**  一                
 [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
 1. **SlidingCard** Sliding cards with pretty gallery effects. http://android-arsenal.com/details/1/2355            
 [https://github.com/mxn21/SlidingCard](https://github.com/mxn21/SlidingCard)
@@ -1421,13 +1421,13 @@ And this project is not using the image file!
 [https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)
 1. **PickerUI**  Android library to display a list of items for pick one      
 [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
-1. **StickerView**  单手操作图片控件 镜像、置顶、缩放、移动           
+1. **StickerView**           
 [https://github.com/nimengbo/StickerView](https://github.com/nimengbo/StickerView)
 1. **DraggableFlipView**  An Android View library that flips while dragging.         
 [https://github.com/sasakicks/DraggableFlipView](https://github.com/sasakicks/DraggableFlipView)
 1. **WindowView**  Android ImageView you pan by tilting your device.                     
 [https://github.com/justasm/WindowView](https://github.com/justasm/WindowView)
-1. **RadarScanView**   android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当扫描到对象的时候，通过水波纹的方式显示扫描到的对象，可以动态的随机添加，并且扫描到的对象是可以点击的……                  
+1. **RadarScanView**   androidThe Radar (Scanning) View on Android                
 [https://github.com/gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView)
 
 
@@ -1566,7 +1566,7 @@ And this project is not using the image file!
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
 1. **eventbus-intellij-plugin**  Plugin to navigate between events posted by EventBus.           
 [https://github.com/kgmyshin/eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
-1. **GsonFormat**  根据Gson库使用的要求,将JSONObject格式的String 解析成实体    
+1. **GsonFormat** Gson JSONObject String 
 [https://github.com/zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat)
 
 
@@ -1581,7 +1581,7 @@ And this project is not using the image file!
 
 
 ### <A NAME="Intent"></A>Intent
-1. **PhotoPicker** 图片选择 & 图片预览                                
+1. **PhotoPicker**                       
 [https://github.com/donglua/PhotoPicker](https://github.com/donglua/PhotoPicker)
 
 
@@ -1798,7 +1798,7 @@ And this project is not using the image file!
 [https://github.com/freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)
 1. **Office-365-SDK-for-Android**  Office 365 SDK for Android Preview by Microsoft Open Technologies, Inc.   
 [https://github.com/OfficeDev/Office-365-SDK-for-Android](https://github.com/OfficeDev/Office-365-SDK-for-Android)
-1. **weibo_android_sdk**  新浪微博 Android SDK          
+1. **weibo_android_sdk**  Android SDK          
 [https://github.com/sinaweibosdk/weibo_android_sdk](https://github.com/sinaweibosdk/weibo_android_sdk)
 1. **socialauth-android** SocialAuth repository which contains socialauth android version and samples             
 [https://github.com/3pillarlabs/socialauth-android](https://github.com/3pillarlabs/socialauth-android)
@@ -1865,7 +1865,7 @@ And this project is not using the image file!
 [https://github.com/diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart)
 1. **Android-Charts** Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc.     
 [https://github.com/limccn/Android-Charts](https://github.com/limccn/Android-Charts)
-1. **XCL-Charts**      Android开源图表库(XCL-Charts is a free charting library for Android platform.)      
+1. **XCL-Charts**      Android(XCL-Charts is a free charting library for Android platform.)      
 [https://github.com/xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
 1. **desCharts**  Android Charting Library     
 [https://github.com/bradipao/desCharts](https://github.com/bradipao/desCharts)
@@ -1905,7 +1905,7 @@ And this project is not using the image file!
 [https://github.com/johnkil/Print/](https://github.com/johnkil/Print/)
 1. **TypefaceHelper**  Helper object for injecting typeface into various text views of android.             
 [https://github.com/Drivemode/TypefaceHelper](https://github.com/Drivemode/TypefaceHelper)
-1. **AndroidFontsManager**  字体管理器，方便快速的为应用内所有组件更换字体。    
+1. **AndroidFontsManager**    
 [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
 
 
@@ -1985,9 +1985,9 @@ And this project is not using the image file!
 [https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)
 1. **ToolbarMenudrawer**  Quick example for the new Toolbar (and Menudrawer) API. Thanks for starring / forking me. :')        
 [https://github.com/I-am-Reinvented/ToolbarMenudrawer](https://github.com/I-am-Reinvented/ToolbarMenudrawer)
-1. **Android-PullLayout**  仿UC天气下拉和微信下拉眼睛        
+1. **Android-PullLayout** 
 [https://github.com/BlueMor/Android-PullLayout](https://github.com/BlueMor/Android-PullLayout)
-1. **DragLayout** An Android Project.ViewDragHelper.QQ.QQ5.0.侧滑     
+1. **DragLayout** An Android Project.ViewDragHelper.QQ.QQ5.0.   
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 1. **rx-android-architecture**   An example project of an Android architecture built on RxJava               
 [https://github.com/tehmou/rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
@@ -2021,7 +2021,7 @@ And this project is not using the image file!
 [https://github.com/toddway/MaterialTransitions](https://github.com/toddway/MaterialTransitions)
 1. **Watch**   A project which demonstrate how to develop a custom client on android for drbbble.com              
 [https://github.com/tuesda/Watch](https://github.com/tuesda/Watch)
-1. **MaterialDesignExample**  本APP用来演示Material Design控件的使用。 http://www.aswifter.com/2015/07/02/Material-Design-Example-5/                 
+1. **MaterialDesignExample**   http://www.aswifter.com/2015/07/02/Material-Design-Example-5/                 
 [https://github.com/chenyangcun/MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample)
 1. **MaterialPowerMenu**   A demo of the power menu with Reveal and other animations        
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
@@ -2032,7 +2032,7 @@ And this project is not using the image file!
 [https://github.com/uberspot/2048-android](https://github.com/uberspot/2048-android)
 1. **FeedEx** FeedEx News Reader is a light and modern Android feed reader, based on Sparse rss.         
 [https://github.com/HoloAddict/FeedEx](https://github.com/HoloAddict/FeedEx)
-1. **rubychina4android**  Ruby-China的Android客户端       
+1. **rubychina4android**   
 [https://github.com/gonjay/rubychina4android](https://github.com/gonjay/rubychina4android)
 1. **HackerNews** An open source Hacker News client for Android.        
 [https://github.com/bishopmatthew/HackerNews](https://github.com/bishopmatthew/HackerNews)
@@ -2056,23 +2056,23 @@ And this project is not using the image file!
 [https://github.com/haiwen/seadroid](https://github.com/haiwen/seadroid)
 1. **freegemas-gdx** Freegemas libGDX is an Android and Java desktop port of Freegemas, which in turn is an open source version of the well known Bejeweled.   
 [https://github.com/siondream/freegemas-gdx](https://github.com/siondream/freegemas-gdx)
-1. **kanxue-android-app** 看雪安全论坛 Android 客户端    
+1. **kanxue-android-app** 
 [https://github.com/kanxue-team/kanxue-android-app](https://github.com/kanxue-team/kanxue-android-app)
 1. **FlappyCow**   Android game in "Flappy Bird" Style      
 [https://github.com/cubei/FlappyCow](https://github.com/cubei/FlappyCow)
-1.**wakao-app** 哇靠百科 － 一款聚合了众多笑话段子、妹子图、微信公众号文章的Android App。     
+1.**wakao-app** 
 [https://github.com/yongbo000/wakao-app](https://github.com/yongbo000/wakao-app)
 1. **Twidere-Android** Twidere is a powerful twitter client for Android 1.6+ 1 , which gives you a full Holo experience and nearly full Twitter's feature.    
 [https://github.com/TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 1. **Telecine**  Record full-resolution video on your Android devices.         
 [https://github.com/JakeWharton/Telecine](https://github.com/JakeWharton/Telecine)
-1. **TopNews** 高仿“今日头条”客户端，实现它大部分的功能，练习之作，目的了解怎么发开一个新闻类客户端，从涉及的相关知识点中提升自我水平。         
+1. **TopNews** 
 [https://github.com/Rano1/TopNews](https://github.com/Rano1/TopNews)
 1. **WaniKani-for-Android**  An Android client application for the awesome kanji learning website wanikani.com           
 [https://github.com/xiprox/WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android)
 1. **OpenLibra-Material**  OpenLibra client on Material Design             
 [https://github.com/saulmm/OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material)
-1. **superCleanMaster**  一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。          
+1. **superCleanMaster**  一          
 [https://github.com/joyoyao/superCleanMaster](https://github.com/joyoyao/superCleanMaster)
 1. **XhsWelcomeAnim**  小红书欢迎引导第二版           
 [https://github.com/w446108264/XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim)
@@ -2100,7 +2100,7 @@ And this project is not using the image file!
 [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)
 1. **InstaMaterial** Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)                
 [https://github.com/frogermcs/InstaMaterial](https://github.com/frogermcs/InstaMaterial)
-1. **wechat** A High Copy WeChat ,SNS APP (高仿微信)               
+1. **wechat** A High Copy WeChat ,SNS APP    
 [https://github.com/motianhuo/wechat](https://github.com/motianhuo/wechat)
 1. **MaterialUp** MaterialUp Android App     
 [https://github.com/jariz/MaterialUp](https://github.com/jariz/MaterialUp)
@@ -2108,7 +2108,7 @@ And this project is not using the image file!
 [https://github.com/julesbond007/Android-Jigsaw-Puzzle](https://github.com/julesbond007/Android-Jigsaw-Puzzle)
 1. **AmazeFileManager**  Amaze File Manager source code           
 [https://github.com/arpitkh96/AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)
-1. **SimplifyReader**  一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。                    
+1. **SimplifyReader**  一           
 [https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
 1. **clean-status-bar**  Tidy up your Android status bar before taking screenshots for the Play Store               
 [https://github.com/emmaguy/clean-status-bar](https://github.com/emmaguy/clean-status-bar)
@@ -2116,7 +2116,7 @@ And this project is not using the image file!
 [https://github.com/xsoh/Etar-Calendar](https://github.com/xsoh/Etar-Calendar)
 1. **HomeMirror**  Android application powering the mirror in my house         
 [https://github.com/HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror)
-1. **JNote** 一款支持部分Markdown语法的轻量级便签软件。                      
+1. **JNote** 一             
 [https://github.com/Jhuster/JNote](https://github.com/Jhuster/JNote)
 1. **TextSecure**   TextSecure is a messaging app for simple private communication with friends.              
 [https://github.com/WhisperSystems/TextSecure](https://github.com/WhisperSystems/TextSecure)
@@ -2162,7 +2162,7 @@ And this project is not using the image file!
 [https://github.com/jgilfelt/NotificationLog](https://github.com/jgilfelt/NotificationLog)
 1. **Java7-on-Android** Java 7 features backported to Android 2.2+      
 [https://github.com/yareally/Java7-on-Android](https://github.com/yareally/Java7-on-Android)
-1. **Genius-Android** 一个在Android中能经常使用的库集合，包括日志，命令行语句执行；Ping,DNS,Telnet,TraceRoute等网络包；同时包含一套UI主题。      
+1. **Genius-Android** 一个在Android中
 [https://github.com/qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)
 1. **TaggerString** TaggerString is very light library which allows to build dynamic string resource in much more readable way.        
 [https://github.com/polok/TaggerString](https://github.com/polok/TaggerString)
@@ -2172,7 +2172,7 @@ And this project is not using the image file!
 [http://gplay.ws/](http://gplay.ws/)
 1. **android-lifecycle** A diagram of the Android Activity / Fragment lifecycle     
 [https://github.com/xxv/android-lifecycle][https://github.com/xxv/android-lifecycle]
-1. **AndroidDevTools**  收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。    
+1. **AndroidDevTools**  
 [https://github.com/inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 1. **gradle-packer-plugin**  Android Packer Gradle Plugin          
 [https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
@@ -2190,7 +2190,7 @@ And this project is not using the image file!
 [https://github.com/StanKocken/SVG2Drawable](https://github.com/StanKocken/SVG2Drawable)
 1. **Layout-to-Image** Android Layout (Relative Layout, Linear Layout etc) to Image               
 [https://github.com/vipulasri/Layout-to-Image](https://github.com/vipulasri/Layout-to-Image)
-1. **shareloginlib** android 第三方分享和登录组件(支持微信,QQ,微博)               
+1. **shareloginlib** android            
 [https://github.com/lingochamp/ShareLoginLib](https://github.com/lingochamp/ShareLoginLib)
 1. **vectalign**   Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image)              
 [https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/vectalign)
@@ -2229,7 +2229,7 @@ And this project is not using the image file!
 
 
 ### <A NAME="Other1"></A>Other
-1. **Colorful**  基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。                          
+1. **Colorful**                           
 [https://github.com/bboyfeiyu/Colorful](https://github.com/bboyfeiyu/Colorful)
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
 [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
@@ -2239,7 +2239,7 @@ And this project is not using the image file!
 [https://github.com/jacobtabak/Fragment-Switcher](https://github.com/jacobtabak/Fragment-Switcher)
 1. **AwesomeValidation**  Implement validation for Android within only 3 steps. Developers should focus on their awesome code, and let the library do the boilerplate. And what's more, this could help keep your layout file clean.
 [https://github.com/thyrlian/AwesomeValidation](https://github.com/thyrlian/AwesomeValidation)
-1. **validation**   Fire eye - Android 输入校验库 - A validation library for android              
+1. **validation**   Fire eye - Android  - A validation library for android              
 [https://github.com/yoojia/FireEye](https://github.com/yoojia/FireEye)
 1. **WeakHandler** helps to have a clean handler without memmory issues.
 [https://github.com/badoo/android-weak-handler](https://github.com/badoo/android-weak-handler)
@@ -2247,7 +2247,7 @@ And this project is not using the image file!
 [https://github.com/jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava)
 1. **sixpack-java** A/B testing client for Android and Java applications        
 [https://github.com/seatgeek/sixpack-java](https://github.com/seatgeek/sixpack-java)
-1. **Android-Skin-Loader**  一个通过动态加载本地皮肤包进行换肤的皮肤框架             
+1. **Android-Skin-Loader**  一            
 [https://github.com/fengjundev/Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
 
 
